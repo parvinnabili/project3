@@ -1,4 +1,4 @@
-# Apple Stock Price Analysis Project on Anaconda Jupyter Notebooks
+# Apple Stock Price Analysis on Anaconda Jupyter Notebooks
 
 The objective of the project was to analyze the stock price data for Apple and identify any patterns or trends that could be useful for making investment decisions. To do this, the project utilized various tools and techniques in Python, including Pandas, Matplotlib, and SciPy.
 
