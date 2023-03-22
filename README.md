@@ -21,7 +21,7 @@ Overall, the project was helpful in identifying several key trends and patterns 
 Some of the plots generated as a part of the analysis are as follows:
 ![AAPL Open Price 1](https://github.com/parvinnabili/project3/blob/3c1636a6d933b58097f6ea8bb4ba45b59d3eedda/AAPL%20Open%20Price%20Net.PNG)
 ![AAPL Open Price High](https://github.com/parvinnabili/project3/blob/3c1636a6d933b58097f6ea8bb4ba45b59d3eedda/AAPL%20Open%20High%20Price.PNG)
-![AAPL Open Price Final](https://github.com/parvinnabili/project3/blob/3c1636a6d933b58097f6ea8bb4ba45b59d3eedda/AAPL%20Open%20Price.PNG)
+![AAPL Open Price Final](https://github.com/parvinnabili/project3/blob/d4b3c9428e98d43cefb410b0fd8f95a74c6b67c1/AAPL%20Open%20Price.PNG)
 
 The code for the analysis: https://github.com/parvinnabili/project3/blob/3c1636a6d933b58097f6ea8bb4ba45b59d3eedda/Stock_Trades.ipynb
 
